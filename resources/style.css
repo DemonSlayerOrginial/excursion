@@ -1,0 +1,84 @@
+
+.mainHeading {
+    display: flex;
+    justify-content: center;
+}
+.mainHeading h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+body {
+    background-color: black;
+}
+.download {
+    display: flex;
+    justify-content: center;
+    margin: -15px;
+}
+.download p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: aquamarine;
+    font-size: 16px;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.text {
+    display: flex;
+    justify-content: center;
+
+}
+.text p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.more-text {
+    margin: -30px;
+    display: flex;
+    justify-content: center;
+}
+.more-text p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.camp {
+    margin:30px;
+    display: flex;
+    justify-content: center;
+}
+.phone {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.coming-soon {
+    display: flex;
+    justify-content: center;
+}
+.coming-soon p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.numberCircle {
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    padding: 8px;
+
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+
+    font: 32px Arial, sans-serif;
+}
